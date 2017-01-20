@@ -1,0 +1,17 @@
+/Users/Joan/Heartstring/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/Joan/Heartstring/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/Joan/Heartstring/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/Joan/Heartstring/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/Joan/Heartstring/Temp/bin/Debug/UnityEngine.dll
+/Users/Joan/Heartstring/Temp/bin/Debug/UnityEditor.dll
+/Users/Joan/Heartstring/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Joan/Heartstring/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Joan/Heartstring/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Joan/Heartstring/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Joan/Heartstring/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Joan/Heartstring/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Joan/Heartstring/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Joan/Heartstring/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Joan/Heartstring/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Joan/Heartstring/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Joan/Heartstring/Temp/bin/Debug/Mono.Cecil.Mdb.dll

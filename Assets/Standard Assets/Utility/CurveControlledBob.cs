@@ -5,7 +5,7 @@ using UnityEngine;
 namespace UnityStandardAssets.Utility
 {
     [Serializable]
-    public class CurveControlledBob
+	public class CurveControlledBob : MonoBehaviour
     {
         public float HorizontalBobRange = 0.33f;
         public float VerticalBobRange = 0.33f;
@@ -21,15 +21,15 @@ namespace UnityStandardAssets.Utility
         private float m_Time;
 
 
-        public void Setup(Camera camera, float bobBaseInterval)
+        public void Update(float bobBaseInterval)
         {
             m_BobBaseInterval = bobBaseInterval;
-            m_OriginalCameraPosition = camera.transform.localPosition;
+            m_OriginalCameraPosition = transform.localPosition;
 
             // get the length of the curve in time
             m_Time = Bobcurve[Bobcurve.length - 1].time;
         }
-
+			
 
         public Vector3 DoHeadBob(float speed)
         {
